@@ -1,2 +1,2 @@
-# adhoc-portfolio
-My portfolio specifically for Chicago Digital since I haven't updated my page in a long while :) and also for fun!!!
+# Abdallah-portfolio
+My portfolio app which is accessable at https://abdallahash.github.io !!!
